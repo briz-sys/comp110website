@@ -28,7 +28,7 @@ This graph shows the correlation between class pace and the preference of having
 <br>
 
 
-## Summary of Analysis and Conclusion.
+## Summary of Analysis and Conclusion
 
 Summary of the Analysis
 <br>
