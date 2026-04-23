@@ -28,7 +28,7 @@ This graph shows the correlation between class pace and the preference of having
 <br>
 
 
-## (smaller header for each graph) This is basic paragraph text for summary of the analysis and conclusion.
+## Summary of Analysis and Conclusion.
 
 Summary of the Analysis
 <br>
